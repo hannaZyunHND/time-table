@@ -1,0 +1,8 @@
+{
+  "name": "TimeTable",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "88d8fbcf"
+}
